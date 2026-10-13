@@ -17,6 +17,7 @@ const (
 	PxmTask                   = "PxmTask"
 	UeMsmTask                 = "UeMsmTask"
 	Metadata1Task             = "Metadata1Task"
+	SeonTask                  = "SeonTask"
 )
 
 // Solve status values returned by the API.
