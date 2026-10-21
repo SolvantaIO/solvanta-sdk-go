@@ -18,6 +18,9 @@ const (
 	UeMsmTask                 = "UeMsmTask"
 	Metadata1Task             = "Metadata1Task"
 	SeonTask                  = "SeonTask"
+	AWSWafTask                = "AWSWafTask"
+	DataDomeTask              = "DataDomeTask"
+	AkamaiTask                = "AkamaiTask"
 )
 
 // Solve status values returned by the API.
