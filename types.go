@@ -21,6 +21,7 @@ const (
 	AWSWafTask                = "AWSWafTask"
 	DataDomeTask              = "DataDomeTask"
 	AkamaiTask                = "AkamaiTask"
+	SecCptTask                = "SecCptTask"
 )
 
 // Solve status values returned by the API.
